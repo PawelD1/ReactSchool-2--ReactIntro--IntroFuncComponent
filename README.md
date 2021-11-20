@@ -1,4 +1,4 @@
-# ReactSchool-React--IntroFuncComponent
+# ReactSchool[2]-ReactIntro--IntroFuncComponent
 
 Project in Visual Studio Code. To run it, run the command "npm install" in the directory where the package.json file is located.
 
